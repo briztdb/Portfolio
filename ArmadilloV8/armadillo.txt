@@ -1,0 +1,7 @@
+fire subtract water earth
+fire subtract water wind
+wind add fire water
+wind add fire wind
+fire please 10000100
+wind please 11110000
+wind please 00100110
