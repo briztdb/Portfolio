@@ -1,3 +1,5 @@
+Writing Sample - For my writing sample, I included the final paper to my Information Security and The Law class which I took in the spring semester of 2024.
+
 ArmadilloV8 - Final project for Computer Architecture and Organization where we were to build a virtual CPU from scratch using Logisim-Evolution. Included in this task was designing the CPU architecture, defining opcodes, an instruction set architecture
   for programmers to interface with the CPU, and a python script to parse user-written code into opcodes and instruction-memory images.
 
